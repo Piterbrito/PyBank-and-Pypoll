@@ -51,8 +51,9 @@ Financial Analysis with Python
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
+  #
   
-    ```text
+   ```text
   Election Results
   -------------------------
   Total Votes: 3521001
@@ -65,9 +66,4 @@ Financial Analysis with Python
   Winner: Khan
   ```
  
- 
-  ![Revenue](Images/revenue-per-lead.jpg)
 
-  ![Vote-Counting](Images/Vote_counting.jpg)
-
-  
