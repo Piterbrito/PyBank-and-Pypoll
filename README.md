@@ -63,8 +63,11 @@ Financial Analysis with Python
   O'Tooley: 3.000% (105630)
   -------------------------
   Winner: Khan
-  ---------
   ```
-  
+ 
+ 
+  ![Revenue](Images/revenue-per-lead.jpg)
+
+  ![Vote-Counting](Images/Vote_counting.jpg)
 
   
